@@ -1,12 +1,19 @@
-- 👋 Hi, I’m @123-Navyasri
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+AIML LAB-01(https://github.com/123-Navyasri/123-Navyasri/blob/main/Copy%20of%20LAB-01.ipynb)
 
-<!---
-123-Navyasri/123-Navyasri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+AIML LAB-02(https://github.com/123-Navyasri/123-Navyasri/blob/main/Lab-02.ipynb)
+
+AIML LAB-03(https://github.com/123-Navyasri/123-Navyasri/blob/main/Lab03.ipynb)
+
+AIML LAB-04(https://github.com/123-Navyasri/123-Navyasri/blob/main/Lab04.ipynb)
+
+AIML LAB-05(https://github.com/123-Navyasri/123-Navyasri/blob/main/LAB-05.ipynb)
+
+AIML LAB-06(https://github.com/123-Navyasri/123-Navyasri/blob/main/Lab-06.ipynb)
+
+AIML LAB-07(https://github.com/123-Navyasri/123-Navyasri/blob/main/LAB-07.ipynb)
+
+AIML LAB-08(https://github.com/123-Navyasri/123-Navyasri/blob/main/LAB_008.ipynb)
+
+AIML LAB-09(https://github.com/123-Navyasri/123-Navyasri/blob/main/LAB_009.ipynb)
+
+AIML LAB-10(https://github.com/123-Navyasri/123-Navyasri/blob/main/LAB_010.ipynb)
