@@ -17,3 +17,4 @@ AIML LAB-08(https://github.com/123-Navyasri/123-Navyasri/blob/main/LAB_008.ipynb
 AIML LAB-09(https://github.com/123-Navyasri/123-Navyasri/blob/main/LAB_009.ipynb)
 
 AIML LAB-10(https://github.com/123-Navyasri/123-Navyasri/blob/main/LAB_010.ipynb)
+AIML PROJECT(https://github.com/123-Navyasri/123-Navyasri/blob/main/Copy%20of%20aimlproj1%20(1).ipynb)
